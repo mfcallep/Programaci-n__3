@@ -1,0 +1,7 @@
+.container { width: 80%; margin: auto; overflow: hidden; }
+.columna { width: 48%; float: left; padding: 10px; border: 1px solid #ccc; }
+
+.container { display: flex; }
+.sidebar { width: 25%; background: #f4f4f4; padding: 20px; }
+.content { width: 75%; padding: 20px; }
+header, footer { background: #333; color: white; text-align: center; padding: 20px; }
